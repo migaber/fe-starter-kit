@@ -1,0 +1,9 @@
+@import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+$dandinColor: #ff2200;
+body {
+    background: $dandinColor;
+    color: #fff;
+    a.btn {
+        text-decoration: none;
+    }
+}
